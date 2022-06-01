@@ -1,4 +1,4 @@
-## LAB 3
+## LAB 5
 
 ```markdown
 Lab Goals and Outcomes:
@@ -23,4 +23,4 @@ In this lab I was able to go through a short GitHub course to get familiar with 
 
 ### Files from Lab 6!
 
-[ss1](lab03.png)
+[ss1](lab06.png)
