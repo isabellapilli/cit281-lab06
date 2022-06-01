@@ -1,4 +1,4 @@
-## LAB 5
+## LAB 6
 
 ```markdown
 Lab Goals and Outcomes:
